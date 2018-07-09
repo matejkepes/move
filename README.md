@@ -37,7 +37,7 @@
 ### Electronics
 | Item | Description | Price New | Price now |
 |-|-|-|-| 
-[Dell U2715H 27inch 2560x1440](https://www.amazon.co.uk/Dell-U2715H-inch-Monitor-Black/dp/B00PRCRWRU) **with Monitor Arm** | | £275 + £80 |  **£200**
+[Dell U2715H 27inch 2560x1440](https://www.amazon.co.uk/Dell-U2715H-inch-Monitor-Black/dp/B00PRCRWRU) **with Monitor Arm** | Warranty until November 21, 2018| £275 + £80 |  **£200**
 [Yamaha ERG 121 U](https://www.amazon.co.uk/gp/product/B001MW65FE/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1)  + [Pocket Mini Guitar Headphone Amp](https://www.amazon.co.uk/gp/product/B01FJ5IW46/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) | |£169 + £15| **£100**
 [De'Longhi Vento Electric Oil Filled Raidator, 1.5KW](https://www.amazon.co.uk/gp/product/B001FSJXZ4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)| | £69 | **£30**
 [TP-LINK AC1350 Dual Band Wi-Fi Router](https://www.amazon.co.uk/Wireless-Parental-UK-Archer-C59/dp/B01I3HFUJW/ref=pd_sim_147_2?_encoding=UTF8&pd_rd_i=B01I3HFUJW&pd_rd_r=f48ca6cd-83a9-11e8-ad2a-8df02f99e812&pd_rd_w=CdrLc&pd_rd_wg=BTJgV&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3274180622111699416&pf_rd_r=9SXT9T3E9RX0RYW0WARV&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=9SXT9T3E9RX0RYW0WARV) | | £52 | **£15**
