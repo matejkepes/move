@@ -1,4 +1,5 @@
 <img src="assets/sale.gif" width="250px"/>
+
 ### Furniture 
 | Item | Description | Price New | <img src="assets/coin.gif" height="60px"/> |
 |-|-|-|-|
