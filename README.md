@@ -1,3 +1,5 @@
+<img src="assets/sale.gif" width="250px"/>
+
 ### Furniture
 | Item | Description | Price New | Price now |
 |-|-|-|-|
@@ -21,7 +23,7 @@
 [Microwave Oven Rack/Organiser stand shelf](https://www.amazon.co.uk/gp/product/B06XGBSZSW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £24| **£10**
 [IKEA Cook's knife 20cm](https://www.ikea.com/gb/en/products/cookware/knives-chopping-boards/ikea-365-cooks-knife-stainless-steel-art-10283522/) | | £20 | **£8**
 [Tefal Non-Stick Kadai Curry Pan Madras Collection, Aluminium, Black, 26 cm](https://primenow.amazon.co.uk/dp/B008KW4P2O?m=A3LITGF83QI6KN&psc=1) | | £19 | **£8**
-[IKEA Knife sharpener](https://www.ikea.com/gb/en/products/cookware/knives-chopping-boards/sk%C3%A4rande-knife-sharpener-black-art-50289169/) | | £28| **£4**
+[IKEA Knife sharpener](https://www.ikea.com/gb/en/products/cookware/knives-chopping-boards/sk%C3%A4rande-knife-sharpener-black-art-50289169/) | | £8| **£4**
 [Pyrex Glass Bowl 3L](https://www.amazon.co.uk/gp/product/B000KG8GVE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £6| **£2**
 [Stainless Steel Kitchen Whisk, Set of 3](https://www.amazon.co.uk/gp/product/B01HEBXOQY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £5 | **£2**
 [Premier Housewares Kitchen Tool Set, 5-Pieces - Black](https://primenow.amazon.co.uk/dp/B00FXM912I?m=A3LITGF83QI6KN&psc=1) | | £8| **£2**
