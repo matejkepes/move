@@ -1,4 +1,4 @@
-###Furniture
+### Furniture
 | Item | Description | Price New | Price now |
 |-|-|-|-|
 [IKEA KALLAX desk combination](https://www.ikea.com/gb/en/products/desks/desk-computer-desks/kallax-desk-combination-black-brown-chrome-plated-spr-19046550/) | Tabletop in bad shape | £79 | **£25**
@@ -8,7 +8,7 @@
 [Miusco Tabletop Makeup Cosmetic Mirror For Tabletop](https://www.amazon.co.uk/gp/product/B01HGDLKUC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1) |  | £17 | **£5**
 [IKEA Floor Uplighter](https://www.ikea.com/gb/en/products/lighting/floor-lamps/not-floor-uplighter-black-art-50139877/) |  | £5 | **£2.50**
 
-###Kitchen
+### Kitchen
 | Item | Description | Price New | Price now |
 |-|-|-|-|
 [Slow Cooker 3.5L](https://www.amazon.co.uk/gp/product/B00J3R3YUE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £45 | **£20**
