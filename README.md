@@ -1,7 +1,6 @@
 <img src="assets/sale.gif" width="250px"/>
-
-### Furniture
-| Item | Description | Price New | Price now |
+### Furniture 
+| Item | Description | Price New | <img src="assets/coin.gif" height="60px"/> |
 |-|-|-|-|
 [IKEA KALLAX desk combination](https://www.ikea.com/gb/en/products/desks/desk-computer-desks/kallax-desk-combination-black-brown-chrome-plated-spr-19046550/) | Tabletop in bad shape | £79 | **£25**
 [IKEA Poang chair](https://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-oak-veneer-knisa-black-spr-29240839/) | | £65 | **£25**
@@ -12,7 +11,7 @@
 [IKEA Floor Uplighter](https://www.ikea.com/gb/en/products/lighting/floor-lamps/not-floor-uplighter-black-art-50139877/) |  | £5 | **£2.50**
 
 ### Kitchen
-| Item | Description | Price New | Price now |
+| Item | Description | Price New | <img src="assets/coin.gif" height="60px"/> |
 |-|-|-|-|
 [Slow Cooker 3.5L](https://www.amazon.co.uk/gp/product/B00J3R3YUE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £45 | **£20**
 [Ninja Nutri Pro Blender 900W](https://www.amazon.co.uk/gp/product/B01B9ZB1LG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £40 | **£15**
@@ -30,12 +29,12 @@
 [Premier Housewares Spring Form Cake Tins - Set of 3, Black](https://primenow.amazon.co.uk/dp/B002ISDTW8?m=A3LITGF83QI6KN&psc=1) | | £8| **£2**
 
 ### Miscellaneous
-| Item | Description | Price New | Price now |
+| Item | Description | Price New | <img src="assets/coin.gif" height="60px"/> |
 |-|-|-|-|
 [Whiteboard 40x30cm](https://www.amazon.co.uk/gp/product/B002W5VOIS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) + [STAEDTLER Whiteboard Marker with Bullet Tip, Pack of 6](https://www.amazon.co.uk/gp/product/B000J69O8E/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)| | £16 + £6 |**£8**
 
 ### Electronics
-| Item | Description | Price New | Price now |
+| Item | Description | Price New | <img src="assets/coin.gif" height="60px"/> |
 |-|-|-|-| 
 [Dell U2715H 27inch 2560x1440](https://www.amazon.co.uk/Dell-U2715H-inch-Monitor-Black/dp/B00PRCRWRU) **with Monitor Arm** | Warranty until November 21, 2018| £275 + £80 |  **£200**
 [Yamaha ERG 121 U](https://www.amazon.co.uk/gp/product/B001MW65FE/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1)  + [Pocket Mini Guitar Headphone Amp](https://www.amazon.co.uk/gp/product/B01FJ5IW46/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) | |£169 + £15| **£100**
@@ -44,3 +43,4 @@
 [Maplin 12 inch desk fan](https://en.shpock.com/i/WV_udWUijRVJdVzA/) | | £24| **£10**
 [Ultrasonic Humidifier](https://www.amazon.co.uk/gp/product/B01N33PX9X/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) | |£20| **£10**
 
+<img src="assets/deal.gif" width="250px"/>
