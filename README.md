@@ -5,6 +5,7 @@
 [IKEA Poang chair](https://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-oak-veneer-knisa-black-spr-29240839/) | | £65 | **£25**
 [IKEA HAMPEN Rug - Grey](https://www.ikea.com/gb/en/products/textiles-rugs/rugs/hampen-rug-high-pile-grey-art-50313013/) | x 2 | £40 | **£20 each**
 [IKEA SVIRVEL Floor lamp 2 shades](https://www.ikea.com/gb/en/products/lighting/floor-lamps/svirvel-floor-lamp-with-2-shades-white-art-10289722/) |  | £30 | **£10**
+[IKEA FORSA Work Lamp](https://www.ikea.com/gb/en/products/lighting/work-lamps/fors%C3%A5-work-lamp-black-art-80106012/) | | £16 | **£8**
 [Miusco Tabletop Makeup Cosmetic Mirror For Tabletop](https://www.amazon.co.uk/gp/product/B01HGDLKUC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1) |  | £17 | **£5**
 [IKEA Floor Uplighter](https://www.ikea.com/gb/en/products/lighting/floor-lamps/not-floor-uplighter-black-art-50139877/) |  | £5 | **£2.50**
 
