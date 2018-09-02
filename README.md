@@ -17,7 +17,6 @@
 [Slow Cooker 3.5L](https://www.amazon.co.uk/gp/product/B00J3R3YUE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £45 | **£20**
 [Ninja Nutri Pro Blender 900W](https://www.amazon.co.uk/gp/product/B01B9ZB1LG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | *Scandi* | £40 | ~~**£15**~~
 [George Foreman Grill](https://www.amazon.co.uk/gp/product/B0055429GO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | *Scandi* |£20| ~~**£10**~~
-[Russell Hobbs Desire Hand Mixer 18960, 300 W - Black and Red](https://primenow.amazon.co.uk/dp/B0085KC1OU?qid=1531162346&m=A3LITGF83QI6KN&sr=1-1&ref_=pn_sr_sg_0_img_A3LITGF83QI6KN) | |£20 | **£10**
 [Microwave Oven Rack/Organiser stand shelf](https://www.amazon.co.uk/gp/product/B06XGBSZSW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) | | £24| **£10**
 [IKEA Cook's knife 20cm](https://www.ikea.com/gb/en/products/cookware/knives-chopping-boards/ikea-365-cooks-knife-stainless-steel-art-10283522/) | Reserved for *Radek* | £20 | ~~**£8**~~
 [Tefal Non-Stick Kadai Curry Pan Madras Collection, Aluminium, Black, 26 cm](https://primenow.amazon.co.uk/dp/B008KW4P2O?m=A3LITGF83QI6KN&psc=1) | | £19 | **£8**
